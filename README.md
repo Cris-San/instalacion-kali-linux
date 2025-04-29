@@ -133,6 +133,9 @@ sudo docker run -it \
 ```bash
 /bin/services.sh
 ```
+<p align="center">
+  <img src="screenshots/iniciar_servicios_vulnerables_15.png" alt="iniciar_servicios_vulnerables_15.png"/>
+</p>
 
 ---
 
@@ -143,7 +146,9 @@ Abrir en navegador:
 ```
 http://10.255.255.2
 ```
-
+<p align="center">
+  <img src="screenshots/comprobacion_final16.png" alt="comprobacion_final16.png"/>
+</p>
 ---
 
 ## 📸 Capturas
