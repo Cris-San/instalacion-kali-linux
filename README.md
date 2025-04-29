@@ -29,7 +29,7 @@ Este proyecto documenta el proceso de instalación de Kali Linux en VirtualBox, 
 8. Teclado: **Español**.
 
 <p align="center">
-  <img src="instalacion-kali-linux/screenshots/lenguaje_instalacion_teclado3.png" alt="lenguaje_instalacion_teclado3" width="600"/>
+  <img src="screenshots/lenguaje_instalacion_teclado3.png" alt="lenguaje_instalacion_teclado3" width="600"/>
 </p>
 
 9. Configurar red: nombre de la máquina `kali`, sin dominio.
