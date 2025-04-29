@@ -27,6 +27,11 @@ Este proyecto documenta el proceso de instalación de Kali Linux en VirtualBox, 
 
 7. Seleccionar idioma: **Español (Colombia)**.
 8. Teclado: **Español**.
+
+<p align="center">
+  <img src="screenshots/lenguaje_instalacion_teclado3" alt="lenguaje_instalacion_teclado3" width="600"/>
+</p>
+
 9. Configurar red: nombre de la máquina `kali`, sin dominio.
 10. Crear usuario: `tu-nombre`. Contraseña: `*****`.
 11. Seleccionar disco virtual, particionar e instalar el sistema.
