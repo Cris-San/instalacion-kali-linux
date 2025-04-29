@@ -111,7 +111,9 @@ sudo docker network create redkali --attachable --subnet 10.255.255.0/24
 ```bash
 sudo docker pull tleemcjr/metasploitable2
 ```
-
+<p align="center">
+  <img src="descargar_iniciar_contenedor_metasplotable2_13.png" alt="descargar_iniciar_contenedor_metasplotable2_13.png"/>
+</p>
 ### Crear contenedor
 
 ```bash
