@@ -93,7 +93,7 @@ sudo apt upgrade -y
 sudo apt install docker.io
 ```
 <p align="center">
-  <img src="instalacion_docker11.png" alt="instalacion_docker11.png"/>
+  <img src="screenshots/instalacion_docker11.png" alt="instalacion_docker11.png"/>
 </p>
 
 ### Crear red virtual
@@ -102,7 +102,7 @@ sudo apt install docker.io
 sudo docker network create redkali --attachable --subnet 10.255.255.0/24
 ```
 <p align="center">
-  <img src="creacion_red_virtual12.png" alt="creacion_red_virtual12.png"/>
+  <img src="screenshots/creacion_red_virtual12.png" alt="creacion_red_virtual12.png"/>
 </p>
 ---
 
