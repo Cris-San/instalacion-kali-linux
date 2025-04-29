@@ -54,7 +54,22 @@ Este proyecto documenta el proceso de instalación de Kali Linux en VirtualBox, 
 </p>
 
 10. Instalar cargador de arranque y reiniciar.
-11. Iniciar sesión con las credenciales configuradas.
+
+<p align="center">
+  <img src="screenshots/seleccion_cargador_arranque7.png" alt="seleccion_cargador_arranque7.png"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/seleccion_unidad_arranque8.png" alt="seleccion_unidad_arranque8.png"/>
+</p>
+
+11. Instalación Completa
+
+<p align="center">
+  <img src="screenshots/instalacion_completa9.png" alt="instalacion_completa9.png"/>
+</p>
+   
+12. Iniciar sesión con las credenciales configuradas.
 
 ---
 
