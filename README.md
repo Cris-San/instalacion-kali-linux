@@ -92,13 +92,18 @@ sudo apt upgrade -y
 ```bash
 sudo apt install docker.io
 ```
+<p align="center">
+  <img src="instalacion_docker11.png" alt="instalacion_docker11.png"/>
+</p>
 
 ### Crear red virtual
 
 ```bash
 sudo docker network create redkali --attachable --subnet 10.255.255.0/24
 ```
-
+<p align="center">
+  <img src="creacion_red_virtual12.png" alt="creacion_red_virtual12.png"/>
+</p>
 ---
 
 ## 📦 Descargar e iniciar contenedor Metasploitable2
