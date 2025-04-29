@@ -112,7 +112,7 @@ sudo docker network create redkali --attachable --subnet 10.255.255.0/24
 sudo docker pull tleemcjr/metasploitable2
 ```
 <p align="center">
-  <img src="descargar_iniciar_contenedor_metasplotable2_13.png" alt="descargar_iniciar_contenedor_metasplotable2_13.png"/>
+  <img src="screenshots/descargar_iniciar_contenedor_metasplotable2_13.png" alt="descargar_iniciar_contenedor_metasplotable2_13.png"/>
 </p>
 ### Crear contenedor
 
@@ -124,6 +124,9 @@ sudo docker run -it \
   --hostname metasploitable2 \
   tleemcjr/metasploitable2 bash
 ```
+<p align="center">
+  <img src="screenshots/creando_contenedor_14.png" alt="creando_contenedor_14.png"/>
+</p>
 
 ### Iniciar servicios vulnerables
 
