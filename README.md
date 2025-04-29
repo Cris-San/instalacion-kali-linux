@@ -19,7 +19,7 @@ Este proyecto documenta el proceso de instalación de Kali Linux en VirtualBox, 
 3. Cargar la ISO en la sección de almacenamiento.
  
 <p align="center">
-  <img src="screenshots/asignacion_recursos1.jpg" alt="asignacion_recursos1"/>
+  <img src="screenshots/asignacion_recursos1.JPG" alt="asignacion_recursos1"/>
 </p>
 
 4. Iniciar la instalación desde el menú de arranque.
