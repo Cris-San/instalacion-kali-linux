@@ -50,7 +50,7 @@ Este proyecto documenta el proceso de instalación de Kali Linux en VirtualBox, 
 </p>
 
 <p align="center">
-  <img src="screenshots/particionado_disco6.png" alt="particionado_disco6"/>
+  <img src="screenshots/particionado_discos6.png" alt="particionado_disco6"/>
 </p>
 
 10. Instalar cargador de arranque y reiniciar.
