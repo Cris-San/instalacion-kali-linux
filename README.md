@@ -81,6 +81,9 @@ sudo apt upgrade -y
 ```
 
 > Puede requerir confirmaciones manuales en algunos paquetes.
+<p align="center">
+  <img src="screenshots/actualizacion_sistema10.png" alt="actualizacion_sistema10.png"/>
+</p>
 
 ---
 
