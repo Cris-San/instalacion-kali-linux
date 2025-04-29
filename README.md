@@ -17,7 +17,7 @@ Este proyecto documenta el proceso de instalación de Kali Linux en VirtualBox, 
 1. Crear la nueva máquina virtual.
 2. Asignar memoria RAM y espacio en disco.
 3. Cargar la ISO en la sección de almacenamiento.
-![image](https://github.com/user-attachments/assets/6193b216-911a-4ef9-9f0f-b2609cb66e27)
+![image](https://github.com/user-attachments/assets/6193b216-911a-4ef9-9f0f-b2609cb66e27 raw=true)
 
 
 4. Iniciar la instalación desde el menú de arranque.
